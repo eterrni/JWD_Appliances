@@ -6,4 +6,8 @@
 
 #Ignore IntelliJ folders
 .idea/
-out/*
+out/
+.settings/
+bin/
+.classpath/
+.project*
